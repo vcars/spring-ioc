@@ -1,1 +1,1 @@
-INI ADALAH CONTOH SPRING IOC
+Ini Adalah Contoh Spring IOC
